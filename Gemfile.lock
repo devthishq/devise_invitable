@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     devise_invitable (1.7.4)
-      actionmailer (>= 4.1.0)
+      actionmailer (>= 5.1.0)
       devise (>= 4.0.0)
 
 GEM
